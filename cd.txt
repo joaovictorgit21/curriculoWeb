@@ -1,0 +1,34 @@
+<!--<div class="conteiner-barra">
+                    <div class="barra">
+
+                    </div>
+                 </div>
+
+
+                <div class="box">
+                    <div class="box-circle">
+                        <svg>
+                            <circle cx="70" cy="70" r="70"></circle>
+                            <circle cx="70" cy="70" r="70"></circle>
+                        </svg>
+                    </div>
+                    <div class="number">
+                        <h2>30%</h2>
+                        <h2 class="comu">Comunicação</h2>
+                    </div>
+                 </div>-->
+
+               
+
+                <!--<div class="box2">
+                    <div class="box-circle2">
+                        <svg>
+                            <circle cx="70" cy="70" r="70"></circle>
+                            <circle cx="70" cy="70" r="70"></circle>
+                        </svg>
+                    </div>
+                    <div class="number2">
+                        <h2>47%</h2>
+                        <h2 class="cria">Criatividade</h2>
+                    </div>
+                </div>-->
